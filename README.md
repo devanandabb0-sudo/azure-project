@@ -13,7 +13,7 @@ This project demonstrates an end-to-end Azure Data Engineering Pipeline built us
 ![Architecture Diagram](architecture/architecture.jpeg)
 
 ---
-
+```
 🔄 Project Workflow
 
 JSON Data
@@ -32,7 +32,7 @@ Azure Data Lake Storage Gen2 (users_flattened)
      │
      ▼
 Power BI Dashboard
-
+```
 ---
 
 🛠️ Technologies Used
