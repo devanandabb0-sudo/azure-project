@@ -48,7 +48,7 @@ Power BI Dashboard
 ---
 
 📂 Project Structure
-
+```
 azure-data-project/
 │
 ├── README.md
@@ -93,7 +93,7 @@ azure-data-project/
     ├── storage_ac_transform_container.png
     ├── storage_ac_presentation_container.jpeg
     └── powerbi_dashboard.jpeg
-
+```
 ---
 
 ✨ Key Features
