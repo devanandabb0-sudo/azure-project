@@ -10,7 +10,7 @@ This project demonstrates an end-to-end Azure Data Engineering Pipeline built us
 
 «Place your architecture image in the "architecture" folder.»
 
-![Architecture Diagram](architecture/architecture (2).jpeg)
+![Architecture Diagram](architecture/architecture.jpeg)
 
 ---
 
